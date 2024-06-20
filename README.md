@@ -56,6 +56,8 @@ This project uses the OpenWeatherMap API to fetch weather data. You will need to
 ```javascript
 const apiKey = 'YOUR_API_KEY';
 ```
+## Screenshots
+![image](https://github.com/manasvi0109/Weather-Dashboard/assets/171707742/acd857ca-3bf9-4f61-bc8d-76cf3a352ae1)
 
 ## Contributing
 
