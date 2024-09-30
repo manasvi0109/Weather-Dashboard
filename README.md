@@ -1,7 +1,7 @@
 # Weather Dashboard
 
 Welcome to the Weather Dashboard project! This web application provides real-time weather information for any location in the world. It is built using HTML, CSS, and JavaScript.
-
+Check live website here - https://manasvi0109.github.io/Weather-Dashboard/
 ## Features
 
 - **Current Weather:** Get the current weather conditions for any city, including temperature, humidity, wind speed, and weather description.
